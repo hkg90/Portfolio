@@ -2,6 +2,7 @@
 
 I'm Denise Suter and welcome to my page. Video games are a huge passion of mine and I love transforming ideas into reality.  
 
+
 ### Background
 
 I am a new graduate from Oregon State Univeristy and am currently pursuing a career in game development. Before this I worked in quality assurance in the biotech/ biopharma industry, but always felt unfulfilled in my role. I pivoted out of that and pushed myself to get a degree in computer science and graduated this year! I have always had a passion for game development and I love being able to create new immersive environments for players to get hooked in as I have with my favorite games in the past. Now I'm working to get my dream job of working in the gaming industry while continuing to make games in my free time. 
@@ -23,7 +24,7 @@ Beyond working I'm also a huge fan of traveling, finding great places to eat or 
 ### Projects
 **VR Game: Virtual Runners** 
 _Technologies Used: Unity, C#, Oculus SDK, Unity XR Interaction Toolkit, Oculus Quest 2_
-Developed an immersive VR rogue-like, infinite runner game. The player is tasked with taking on the role of a mad scientist and working to keep their test subject running along the track for as long as possible, acheiving the best possible score! See gameplay demo here: [click link] ()
+Developed an immersive VR rogue-like, infinite runner game. The player is tasked with taking on the role of a mad scientist and working to keep their test subject running along the track for as long as possible, acheiving the best possible score! See gameplay demo here: [CLICK HERE](https://media.oregonstate.edu/media/t/1_fig8p83n)
 
 ![image](https://user-images.githubusercontent.com/55517111/127911147-65d8b6c0-0a38-4199-af36-cab1c9808d7a.png)
 
@@ -43,4 +44,8 @@ Created an Akari game that tests the player's puzzle solving skills. The player 
 ![image](https://user-images.githubusercontent.com/55517111/127912598-e9b0a4d1-cf00-40ba-84ad-a4ea8abc7d63.png)
 
 (Completed board)
+
+### Let's Connect!
+**LinkedIn: ** http://linkedin.com/in/denise-suter-7464a032
+
 
