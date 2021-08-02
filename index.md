@@ -48,6 +48,6 @@ Created an Akari game that tests the player's puzzle solving skills. The player 
 (Completed board)
 
 ### Let's Connect!
-**LinkedIn: ** http://linkedin.com/in/denise-suter-7464a032
+#### **LinkedIn:** http://linkedin.com/in/denise-suter-7464a032
 
 
