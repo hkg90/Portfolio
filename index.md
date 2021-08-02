@@ -24,7 +24,8 @@ Beyond working I'm also a huge fan of traveling, finding great places to eat or 
 ### Projects
 **VR Game: Virtual Runners** 
 _Technologies Used: Unity, C#, Oculus SDK, Unity XR Interaction Toolkit, Oculus Quest 2_
-Developed an immersive VR rogue-like, infinite runner game. The player is tasked with taking on the role of a mad scientist and working to keep their test subject running along the track for as long as possible, acheiving the best possible score! See gameplay demo here: [CLICK HERE](https://media.oregonstate.edu/media/t/1_fig8p83n)
+Developed an immersive VR rogue-like, infinite runner game. The player is tasked with taking on the role of a mad scientist and working to keep their test subject running along the track for as long as possible, acheiving the best possible score!  
+**See gameplay demo here: [CLICK HERE](https://media.oregonstate.edu/media/t/1_fig8p83n)**
 
 ![image](https://user-images.githubusercontent.com/55517111/127911147-65d8b6c0-0a38-4199-af36-cab1c9808d7a.png)
 
