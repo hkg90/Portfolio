@@ -65,9 +65,10 @@ author:
   name   : "Denise Suter"
   avatar : "/assets/images/DS.jpg"
   bio    : "Welcome to my page! Video games are a huge passion of mine and I love transforming ideas into reality."
+  location: San Jose, CA
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/denise-suter-7464a032/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -82,7 +83,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/denise-suter-7464a032/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
