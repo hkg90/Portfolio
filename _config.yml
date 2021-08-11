@@ -25,7 +25,7 @@ baseurl: Portfolio      # place folder name if the site is served in a subfolder
 
 twitter_username: username
 github_username: hkg90
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
