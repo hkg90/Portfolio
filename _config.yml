@@ -160,7 +160,7 @@ tag_archive:
   type: liquid
   path: /tags/
 =======
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 >>>>>>> parent of a51b9b6 (add new template)
 =======
 theme: jekyll-theme-architect
