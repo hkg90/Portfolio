@@ -95,7 +95,7 @@ footer:
     #   url: "https://instagram.com/"
 
 defaults:
-  # _Blog
+  # _blog
   - scope:
       path: ""
       type: blog
