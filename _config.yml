@@ -80,16 +80,10 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
----
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: /assets/images/MyPost.jpg
-  caption: "Photo credit: [**AdobeSpark**](https://spark.adobe.com/sp/)"
-  actions:
-    - label: "More Info"
-      url: "https://spark.adobe.com/sp/"
----
-  
+
+
+
+
 footer:
   links:
     - label: "LinkedIn"
@@ -124,6 +118,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+      excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+      header:
+        overlay_image: /assets/images/MyPost.jpg
+        caption: "Photo credit: [**AdobeSpark**](https://spark.adobe.com/sp/)"
+        actions:
+          - label: "More Info"
+            url: "https://spark.adobe.com/sp/"
 
 category_archive:
   type: liquid
